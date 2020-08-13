@@ -1,0 +1,18 @@
+body {
+    margin: auto;
+}
+.counter{
+    margin: 0px auto;
+    position: relative;
+}
+div {
+    width: 200px;
+    margin: 0px auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.btn {
+    margin: 0px auto;
+}
